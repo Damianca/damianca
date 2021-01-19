@@ -13,6 +13,8 @@
 
 Octubre 2015 – Enero 2021 |  Córdoba, Argentina
 
+Mvision EDR: kubernetes, docker, aws, terraform, ansible, teamcity, jira, neo4j and, arangodb.
+
 
 
 <!--
