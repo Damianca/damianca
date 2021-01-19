@@ -5,7 +5,7 @@
 
 ![Containers](https://img.shields.io/badge/Containers-Docker%20%2F%20Minikube-blue?style=for-the-badge)
 
-![Intereses adicionales](https://img.shields.io/badge/Intereses%20adicionales-Kubernetes%20%2F%20Terraform%20%2F%20Jenkins-orange?style=for-the-badge)
+![Intereses adicionales](https://img.shields.io/badge/Intereses%20adicionales-Kubernetes%20%2F%20Terraform%20%2F%20Jenkins%20%2F%20Ansible%20%2F%20Ant-orange?style=for-the-badge)
 
 # Experiencia Laboral
 
@@ -14,6 +14,8 @@
 Octubre 2015 – Enero 2021 |  Córdoba, Argentina
 
 Mvision EDR: kubernetes, docker, aws, terraform, ansible, teamcity, jira, neo4j and, arangodb.
+
+Active Response: vmware data center, perl, ant, and linux.
 
 
 
