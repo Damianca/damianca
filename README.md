@@ -9,7 +9,7 @@
 
 # Experiencia Laboral
 
-![McAfee](https://raw.githubusercontent.com/juanspinelli/images/master/mcafee.jpeg)
+![McAfee](https://github.com/Damianca/damianca/blob/main/mcafee.png)
 
 Octubre 2015 – Enero 2021 |  Córdoba, Argentina
 
