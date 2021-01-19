@@ -9,7 +9,7 @@
 
 # Experiencia Laboral
 
-![McAfee](https://github.com/Damianca/damianca/blob/main/mcafee.png)
+![McAfee](https://github.com/Damianca/damianca/blob/main/mcafee_small.png)
 
 Octubre 2015 – Enero 2021 |  Córdoba, Argentina
 
