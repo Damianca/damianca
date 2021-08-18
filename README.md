@@ -8,7 +8,7 @@
 ![Intereses adicionales](https://img.shields.io/badge/Intereses%20adicionales-Kubernetes%20%2F%20Terraform%20%2F%20Jenkins%20%2F%20Ansible%20%2F%20Ant-orange?style=for-the-badge)
 
 # Trabajando en INCLUIT
-
+![Incluit](https://github.com/Damianca/damianca/blob/main/incluit.png)
 
 
 # Experiencia Laboral
